@@ -18,7 +18,7 @@ PHP 7.x
 `$php nomeDoArquivo.php `
 
 ## :pencil2: Licença
-Este projeto esta sob a licença MIT.
+Este projeto sob licença MIT.
 
 Feito com ❤️ por Ricardo Santana
 
